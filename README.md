@@ -6,6 +6,8 @@ Not ready for production, Script is heavily wip
 # Summary
 - any Texture
 - any Material
+- mesh form setup in ExtrudeMesh (road, square, circle)
+- uv aligned across spline
 # Known issues
 - no color support
 - flash alpha
